@@ -49,12 +49,3 @@ Processing: The Supervisor assigns tasks; workers fetch data concurrently using 
 Validation: The output is stress-tested against the "Trust Layer."
 
 Delivery: The final, validated report is pushed to the Auditor’s dashboard via a secure API contract.
-
-Tech Stack
-Orchestration: LangGraph / LangChain
-
-LLM: Gemini 1.5 Flash (optimized for tool-calling latency)
-
-Infrastructure: Python (Asyncio), SQL, REST APIs
-
-Persistence: Postgres / Redis Checkpointing
