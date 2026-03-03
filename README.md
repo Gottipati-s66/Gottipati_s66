@@ -2,15 +2,15 @@
 My Professional AI\ML Portfolio
 
 
-Hi, I'm Gottipati Srisowmya
-AI Engineer | MLOps & Generative AI Specialist
-Raleigh, North Carolina
+Gottipati Srisowmya | Senior AI Engineer
+MLOps & Generative AI Specialist | Raleigh, NC
+🚀 Professional Statement
+I architect and deliver scalable AI solutions that bridge the gap between experimental research and production-grade stability. With 6+ years of experience across GCP, AWS, and Azure, I specialize in building Agentic Workflows and High-Accuracy RAG systems tailored for complex regulatory environments in Finance and Healthcare.
 
-Results-driven Senior AI Engineer with 6+ years of experience architecting and delivering scalable MLOps platforms and Generative AI solutions across GCP, AWS, and Azure. I specialize in Agentic Workflows (planning, memory, tool use), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems. I have a proven track record of automating end-to-end pipelines and optimizing models for complex regulatory environments in Finance and Healthcare.
+My focus is on System Reliability—ensuring that LLM-based applications are not just "smart," but audit-ready, stateful, and performant.
 
 🛠 Tech Stack & Expertise
-Generative AI: LLMs (GPT-4, Claude, Gemini, Llama), RAG Systems, Agentic Workflows, LangChain, LlamaIndex.
-
-MLOps & Cloud: GCP (Vertex AI), AWS (SageMaker), Azure ML, Docker, Kubernetes, CI/CD for ML.
-
-Core Engineering: Python (Expert), PyTorch, TensorFlow, Scikit-learn, SQL, Big Data.
+Generative AILLMs (GPT-4, Claude, Gemini, Llama), LangGraph, LangChain, LlamaIndex
+MLOps & CloudGCP (Vertex AI), AWS (SageMaker), Azure ML, Docker, Kubernetes, CI/CD for ML
+Data & Engineering Python (Expert), PyTorch, TensorFlow, SQL, Big Data (Spark/Kafka)
+Specialized Focus Agentic Planning, Multi-agent Orchestration, Stateful Memory, Output Validation
